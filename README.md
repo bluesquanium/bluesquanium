@@ -1,12 +1,12 @@
-### Hi there 👋
-
-I'm Bluesquanium! I'm a software engineer based in Seoul - :kr:.
-
 <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbluesquanium)](https://hits.seeyoufarm.com) 
 	
 </div>
+
+### Hi there 👋
+
+I'm Bluesquanium! I'm a software engineer based in Seoul - :kr:.
 
 ### Cloud Infrastructure Engineer
 - In my company, I'm working as kubernetes cloud platform developer.
